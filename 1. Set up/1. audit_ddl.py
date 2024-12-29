@@ -19,3 +19,8 @@
 
 # MAGIC %sql 
 # MAGIC select * from audit.load_logs
+
+# COMMAND ----------
+
+# MAGIC %sql
+# MAGIC --code added 
